@@ -4,7 +4,7 @@ package com.ziletech.logistic;
  *
  * @author Nagendra
  */
-public class sample {
+public class Sample {
 
     public static void main(String arg[]) {
 
