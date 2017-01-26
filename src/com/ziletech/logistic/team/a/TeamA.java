@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Sunil
+ * @author Yukti
  */
 public class TeamA {
 
@@ -12,7 +12,7 @@ public class TeamA {
         String original, reverse = "";
         Scanner in = new Scanner(System.in);
 
-        System.out.println("Enter a string to reverse");
+        System.out.println("Enter a string to reverse...!!!!!");
         original = in.nextLine();
 
         int length = original.length();
