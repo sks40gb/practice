@@ -7,7 +7,7 @@ import java.util.Iterator;
  *
  * @author Yukti
  */
-public class List {
+public class ListArray {
 
 
  public static void main(String args[]){  
