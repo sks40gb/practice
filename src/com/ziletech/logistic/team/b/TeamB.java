@@ -22,5 +22,6 @@ public class TeamB {
         }
 
         System.out.println("Reverse of entered string is: " + reverse);
+        System.out.println("done");
     }
 }
