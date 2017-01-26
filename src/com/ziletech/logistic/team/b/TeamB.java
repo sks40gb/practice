@@ -12,7 +12,7 @@ public class TeamB {
         String original, reverse = "";
         Scanner in = new Scanner(System.in);
 
-        System.out.println("Enter a string to reverse");
+        System.out.println("Enter a word to get reverse ");
         original = in.nextLine();
 
         int length = original.length();
